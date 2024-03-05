@@ -1,4 +1,4 @@
-# dell-images
+# large-images
 
 ## Links
 
